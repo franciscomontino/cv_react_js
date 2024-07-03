@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cv_react_js/static/css/main.07db46e4.css",
+    "main.css": "/cv_react_js/static/css/main.73c1d601.css",
     "main.js": "/cv_react_js/static/js/main.6b0f2689.js",
     "static/js/787.6f28d3d4.chunk.js": "/cv_react_js/static/js/787.6f28d3d4.chunk.js",
     "static/media/python_icon.png": "/cv_react_js/static/media/python_icon.dea924d737bb84eb9ce3.png",
@@ -13,12 +13,12 @@
     "static/media/graphql_icon.png": "/cv_react_js/static/media/graphql_icon.850171dbf1478b44a8fc.png",
     "static/media/js_icon.png": "/cv_react_js/static/media/js_icon.3dfb665e058d08c99f28.png",
     "index.html": "/cv_react_js/index.html",
-    "main.07db46e4.css.map": "/cv_react_js/static/css/main.07db46e4.css.map",
+    "main.73c1d601.css.map": "/cv_react_js/static/css/main.73c1d601.css.map",
     "main.6b0f2689.js.map": "/cv_react_js/static/js/main.6b0f2689.js.map",
     "787.6f28d3d4.chunk.js.map": "/cv_react_js/static/js/787.6f28d3d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07db46e4.css",
+    "static/css/main.73c1d601.css",
     "static/js/main.6b0f2689.js"
   ]
 }
