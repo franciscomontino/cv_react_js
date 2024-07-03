@@ -1,0 +1,60 @@
+.App {
+  background-color: #2c2c2c;
+  color: whitesmoke;
+}
+
+.Borderer-component {
+  padding: 50px;
+}
+
+.GoldTittle {
+  color: #e2c15c;
+}
+
+.T1 {
+  padding-right: 15px;
+}
+
+.css-16lloyr-MuiBottomNavigation-root {
+  background-color: #2c2c2c !important;
+}
+
+.MuiBottomNavigationAction-label {
+  font-size: 20px !important;
+  color: whitesmoke !important;
+  position: fixed;
+  z-index: 1000 !important;
+}
+
+.Mui-selected {
+  color: #e2c15c !important;
+}
+
+.Resume {
+  min-height: 90vh;
+}
+
+.MuiPaper-root {
+  border-width: 5px !important;
+  border-color: #e2c15c !important;
+}
+
+.slide {
+  position: absolute !important;
+}
+
+.TimeLineContainer {
+  height: 100vh;
+  display: block;
+  margin: auto;
+}
+
+.MuiTimelineDot-root {
+  color: #e2c15c !important;
+  background-color: #e2c15c !important;
+  border-color: #e2c15c !important;
+}
+
+.test {
+  margin-right: 350px;
+}

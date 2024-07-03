@@ -1,0 +1,41 @@
+/* Full size screen */
+@media screen and (min-width: 1200px) {
+  .container {
+    height: 220px;
+  }
+
+  .Skill_icon {
+    max-width: 100%;
+    max-height: 220px;
+    display: block;
+    margin: auto;
+  }
+}
+
+/* Medium size screen */
+@media screen and (min-width: 900px) and (max-width: 1199px) {
+  .container {
+    height: 230px;
+  }
+
+  .Skill_icon {
+    max-width: 100%;
+    max-height: 120px;
+    display: block;
+    margin: auto;
+  }
+}
+
+/* Small size screen */
+@media screen and (max-width: 899px) {
+  .container {
+    height: 200px;
+  }
+
+  .Skill_icon {
+    max-width: 100%;
+    max-height: 100px;
+    display: block;
+    margin: auto;
+  }
+}

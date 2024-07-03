@@ -1,0 +1,67 @@
+.Intro {
+  height: 120vh;
+}
+
+@media screen and (min-width: 900px) {
+  .Intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+}
+
+.GButton {
+  color: #e2c15c !important;
+  border-color: #e2c15c !important;
+}
+
+.Bordered-image {
+  border-top-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  filter: grayscale(100%);
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  -ms-transition: all .3s ease;
+}
+
+.Bordered-image:before {
+  content: "";
+  position: absolute;
+  bottom: 99.5%;
+  left: 1;
+  height: 150%;
+  width: 150%;
+  background: #2c2c2c;
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  transform: rotate(3deg);
+  z-index: 2;
+}
+
+.Bordered-image:after {
+  content: "";
+  position: absolute;
+  top: 99.5%;
+  left: 1;
+  height: 150%;
+  width: 150%;
+  background: #2c2c2c;
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  transform: rotate(3deg);
+}
+
+.Bordered-image:hover {
+  filter: grayscale(0%);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
