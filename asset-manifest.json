@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/cv_react_js/static/css/main.73c1d601.css",
-    "main.js": "/cv_react_js/static/js/main.6b0f2689.js",
+    "main.css": "/cv_react_js/static/css/main.29b7fc95.css",
+    "main.js": "/cv_react_js/static/js/main.3461ff28.js",
     "static/js/787.6f28d3d4.chunk.js": "/cv_react_js/static/js/787.6f28d3d4.chunk.js",
+    "static/media/2win.jpg": "/cv_react_js/static/media/2win.97e6e5dd6e1ecebb09f3.jpg",
+    "static/media/inmotion.png": "/cv_react_js/static/media/inmotion.42362aaba95f63bef4c1.png",
+    "static/media/notarisa.png": "/cv_react_js/static/media/notarisa.a12c029bd3ff0278cdff.png",
+    "static/media/legalchile.png": "/cv_react_js/static/media/legalchile.767d50bb9173d54a9478.png",
+    "static/media/Happ.jpg": "/cv_react_js/static/media/Happ.f9eb4fd454443fd5388f.jpg",
+    "static/media/icar.png": "/cv_react_js/static/media/icar.44587645d2021f3135fd.png",
     "static/media/python_icon.png": "/cv_react_js/static/media/python_icon.dea924d737bb84eb9ce3.png",
     "static/media/c_sharp_icon.png": "/cv_react_js/static/media/c_sharp_icon.dcfd7cba519fc03651fb.png",
     "static/media/profile.jpeg": "/cv_react_js/static/media/profile.22cc85423e854ee24104.jpeg",
@@ -13,12 +19,12 @@
     "static/media/graphql_icon.png": "/cv_react_js/static/media/graphql_icon.850171dbf1478b44a8fc.png",
     "static/media/js_icon.png": "/cv_react_js/static/media/js_icon.3dfb665e058d08c99f28.png",
     "index.html": "/cv_react_js/index.html",
-    "main.73c1d601.css.map": "/cv_react_js/static/css/main.73c1d601.css.map",
-    "main.6b0f2689.js.map": "/cv_react_js/static/js/main.6b0f2689.js.map",
+    "main.29b7fc95.css.map": "/cv_react_js/static/css/main.29b7fc95.css.map",
+    "main.3461ff28.js.map": "/cv_react_js/static/js/main.3461ff28.js.map",
     "787.6f28d3d4.chunk.js.map": "/cv_react_js/static/js/787.6f28d3d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c1d601.css",
-    "static/js/main.6b0f2689.js"
+    "static/css/main.29b7fc95.css",
+    "static/js/main.3461ff28.js"
   ]
 }
