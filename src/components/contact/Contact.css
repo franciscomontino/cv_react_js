@@ -1,0 +1,15 @@
+.contact-container {
+  height: 95vh;
+  position: relative;
+  margin-top: 740vh;
+  background-color: #2c2c2c;
+  transition: opacity 2s ease-in-out;
+}
+
+.visible {
+  opacity: 1;
+}
+
+.hide {
+  opacity: 0;
+}

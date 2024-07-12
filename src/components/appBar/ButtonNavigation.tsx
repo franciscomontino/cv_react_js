@@ -11,7 +11,7 @@ import AppBar from './AppBar';
 import { TitleXL } from './TitleXL';
 import { TitleSM } from './TitleSM';
 
-const title = "I'm Francisco :)";
+const title = "";
 const pages = ['Home', 'About', 'Skills', 'Experience', 'Contact'];
 
 export default function LabelBottomNavigation({ ...refs }) {
@@ -40,7 +40,7 @@ export default function LabelBottomNavigation({ ...refs }) {
   };
 
   const BoxXL = () => (
-    <Grid container mdOffset={2.5} >
+    <Grid container mdOffset={4} >
       <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
         {pages.map((page, i) => (
           <Button
