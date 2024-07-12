@@ -60,3 +60,8 @@
   position: relative;
   height: 220px;
 }
+
+.link {
+  color: #e2c15c;
+  text-decoration: none;
+}

@@ -17,9 +17,6 @@ const textComponent = (detail: any) => (
   <Box className='text-box'>
     <Grid container xs={12} md={12} lg={12} className="text-background Borderer-component">
       <Grid xs={12} md={12} lg={12} spacing={4}>
-        {/* <Typography variant="h2" className='text-color'>
-          {detail.company}
-        </Typography> */}
         <p className='text-color large-text bold'>{detail.company}</p>
         <br />
         <Typography variant="h5" className='GoldTittle'>

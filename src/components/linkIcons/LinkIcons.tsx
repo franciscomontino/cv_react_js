@@ -10,8 +10,12 @@ export default function LinkNavigation() {
       container
       className='LinkIcons'
     >
-      <LinkedInIcon fontSize="large" />
-      <GitHubIcon fontSize="large" />
+      <a href="https://www.linkedin.com/in/francisco-montino-746b0b88/" className='link'>
+        <LinkedInIcon fontSize="large" />
+      </a>
+      {/* <a href="https://github.com/franciscomontino" className='link'>
+        <GitHubIcon fontSize="large" />
+      </a> */}
     </Grid>
   );
 }
